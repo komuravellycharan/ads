@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<allusers>
+	<user>
+		<name>cmrit</name>
+		<password>cmrit</password>
+	</user>
+	<user>
+		<name>admin</name>
+		<password>admin123</password>
+	</user>
+</allusers>
